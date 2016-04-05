@@ -1,0 +1,28 @@
+name: Next Right
+favicon: null
+layout_spectrum: 0.917867932934314
+typography_spectrum: 0.3236057434696704
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6368372272700071
+  lightness: 0.05389772355556488
+  saturation: 0.8848077151924372
+  rhythmicContrast: 0.8892710946965963
+purpose: []
